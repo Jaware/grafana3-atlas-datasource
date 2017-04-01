@@ -9,7 +9,7 @@
 Additional docs at [github.io](https://briangann.github.io/grafana3-atlas-datasource)
 
 ### About this plugin
-This [Grafana 3.x](https://grafana.org) plugin for Atlas provides a query builder with aliases, dimensions, aggregations and grouping.
+This [Grafana](https://grafana.org) plugin for Atlas provides a query builder with aliases, dimensions, aggregations and grouping.
 
 The query builder provides metric hints for tags on the fly, along with their dimensions, allowing you to construct Atlas queries easily.
 
