@@ -1,4 +1,4 @@
-# Atlas plugin for Grafana 3.x
+# Atlas plugin for Grafana 4.x
 
 [Atlas by Netflix](https://github.com/Netflix/atlas) is a backend for managing dimensional time series data.
 
